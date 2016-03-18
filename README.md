@@ -1,1 +1,1 @@
-# Kimmove---Hackathon
+"Kimmove" recognizes human interfaces and gestures, hence allows FPS gaming just by hovering "Kimmove" in the air with all the buttons wirelessly embedded into a single device . This relishes the user's gaming experience by satiating the true gaming spirit. This project can be extended by integrating it with the micro-controller and using an array of IR blasters to detect the depth and human gestures more effectively and precisely.
